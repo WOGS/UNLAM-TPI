@@ -7742,11 +7742,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "D:\\repos\\WebTPI\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "D:\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "D:\\repos\\WebTPI\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\walter\\.nuget\\packages\\",
-      "outputPath": "D:\\repos\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "D:\\repos\\WebTPI\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\walter\\AppData\\Roaming\\NuGet\\NuGet.Config",

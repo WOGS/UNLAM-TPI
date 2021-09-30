@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Linq;
-using WebApplication1;
+using WebApplication1.Jwt;
 using WebApplication1.Models.DB;
 
 
